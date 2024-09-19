@@ -1,0 +1,11 @@
+﻿key_resp.keys,key_resp.corr,tilt,Outcome
+up,1,0,Correct Rejection
+up,0,-5,Miss
+down,1,-2,Hit
+down,1,-3,Hit
+up,0,2,Miss
+up,0,2,Miss
+down,1,3,Hit
+down,0,0,False Alarm
+down,1,-3,Hit
+up,0,3,Miss
